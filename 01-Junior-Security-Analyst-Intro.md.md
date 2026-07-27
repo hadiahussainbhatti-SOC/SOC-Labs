@@ -1,6 +1,7 @@
  Lab Write-Up Junior Security Analyst Intro
 
 **Date:** July 27, 2026
+
 **Platform:** TryHackMe
 
 ## 1. What is a Junior SOC Analyst?
