@@ -2,7 +2,7 @@
 **Date:** July 27, 2026
 **Platform:** TryHackMe
 
-## 1. What is a SOC Analyst?
+## 1. What is a Junior SOC Analyst?
 * A Junior (Tier 1) Security Analyst works within a SOC team to monitor network traffic, perform initial triage on security alerts, investigate potential threats, and assist in containing security incidents to protect the organization's infrastructure.
 
 ## 2. Key Tools & Concepts Learned
